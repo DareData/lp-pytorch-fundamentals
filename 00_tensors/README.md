@@ -24,6 +24,8 @@ Check out Chapter 00 of the [Learn PyTorch for Deep Learning: Zero to Mastery bo
 
 After this lesson, you should have a good understanding of how to use PyTorch's Tensors and how to perform operations on them.
 
+Now, you can move on to the next lesson, where you'll learn about the PyTorch workflow and how to build a simple linear regression model. After that lesson, there's going to be an <ins>assignment</ins> where you can apply what you've learned in the first two lessons.
+
 ## Extra Resources
 
 If you want to deepen your knowledge on Tensors, check out the [PyTorch documentation](https://pytorch.org/docs/stable/tensors.html).

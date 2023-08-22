@@ -1,4 +1,7 @@
 ### Assignment Plan
+
+<ins>**Dev's Note:**</ins> This is the plan followed when constructing the assignment. Whether you want to keep it here for future students or private it to instructors only is up to you.
+
 1. Read CSV with pandas
 2. Transform DF into PyTorch Tensor with datatype float32
 3. Separate the sales (y) from the rest of the data (X) with PyTorch indexing
@@ -18,7 +21,6 @@
 3. Check the model parameters with `model.parameters()` and analyze (higher = more important feature)
 
 #### Improve training
-1. Use TensorDataset and DataLoader to create batches
-2. Normalize the data with Min-Max or Standardization
-3. Experiment with other loss functions, optimizers, and hyperparameters
+1. Normalize the data with Min-Max or Standardization
+2. Experiment with other loss functions, optimizers, and hyperparameters
 

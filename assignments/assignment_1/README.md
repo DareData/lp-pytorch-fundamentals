@@ -7,7 +7,7 @@ This assignment will challenge you to apply the things you've learned in chapter
 
 Aside from this, you can complement your work with a few extras that'll help you grasp the concepts of ML with PyTorch better.
 
-> **Note**: Before you start, make sure you have <mark>set up your environment correctly</mark> by following the instructions in the [setup file](../../setup.ipynb).
+> **Note**: Before you start, make sure you have <ins>**set up your environment correctly**</ins> by following the instructions in the [setup file](../../setup.ipynb).
 
 For this project, you'll need a few imports from PyTorch and other libraries. The essential ones are below, while others may be added in the Extras section:
 
@@ -86,8 +86,6 @@ One of the most important things you can do to understand your model is to visua
 
 We've built a very basic linear regression model and are using few samples to train it. However, there are a few things you can do to improve the training process and the model's performance. If you want to improve your model, you can try the following:
 
-1. Use `TensorDataset` and `DataLoader` to create mini-batches. This way, instead of predicting the whole data samples and then updating the parameters, we'll take more steps and update them several times per epoch, not only optimizing conversion but also making the process more efficient. You can find more information on how to use these classes [here](https://machinelearningmastery.com/mini-batch-gradient-descent-and-dataloader-in-pytorch/).
+1. Scale your features with Min-Max or Standardization. This is a very important step in ML, as many times your features have very different order of magnitude among them, and standardizing the numerical values helps stabilize the calculations the model performs. You can find more information by reading [this article](https://medium.com/@soniaman809/feature-scaling-in-machine-learning-regularization-and-normalization-40d1091a45f8) and [this latter one](https://www.geeksforgeeks.org/ml-feature-scaling-part-2/), which is more code-driven and shows you how to do it.
 
-2. Scale your features with Min-Max or Standardization. This is a very important step in ML, as many times your features have very different order of magnitude among them, and standardizing the numerical values helps stabilize the calculations the model performs. You can find more information by reading [this article](https://towardsdatascience.com/data-normalization-with-pandas-and-scikit-learn-7c1cc6ed6475).
-
-3. Experiment with other loss functions, optimizers, and hyperparameters. There are many loss functions and optimizers you can use, and each one has its advantages and disadvantages. You can explore other [loss functions](https://pytorch.org/docs/stable/nn.html#loss-functions) and  [optimizers](https://pytorch.org/docs/stable/optim.html) and try to see which ones are adequate for the type of task we're doing. You can also experiment with other hyperparameters, such as the learning rate, the number of epochs, the batch size, etc.
+2. Experiment with other loss functions, optimizers, and hyperparameters. There are many loss functions and optimizers you can use, and each one has its advantages and disadvantages. You can explore other [loss functions](https://pytorch.org/docs/stable/nn.html#loss-functions) and  [optimizers](https://pytorch.org/docs/stable/optim.html) and try to see which ones are adequate for the type of task we're doing. You can also experiment with other hyperparameters, such as the learning rate, the number of epochs, the batch size, etc.
