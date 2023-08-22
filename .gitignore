@@ -3,4 +3,4 @@
 .env
 __pycache__
 
-02_nn_classification/*
+nn_test
