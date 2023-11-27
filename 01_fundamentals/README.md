@@ -27,7 +27,7 @@ Almost all PyTorch projects follow the same workflow. You'll need to:
 
 This workflow is very similar to the one you'll find in other frameworks, such as TensorFlow, and once you've understood it, you'll be able to replicate it to build any model you want, although some model types may require some extra steps.
 
-Check out Chapter 01 of the [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/01_pytorch_basics/) and follow along by trying out the code in the [notebook in this folder](./pytorch_workflow.ipynb).
+Check out Chapter 01 of the [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/01_pytorch_workflow/) and follow along by trying out the code in the [notebook in this folder](./pytorch_workflow.ipynb).
 
 After this lesson, you'll be able to build a simple linear regression model in PyTorch and understand how to use the PyTorch workflow to build any model you want.
 
