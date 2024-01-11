@@ -31,3 +31,5 @@ Now, you can move on to the next lesson, where you'll learn about the PyTorch wo
 If you want to deepen your knowledge on Tensors, check out the [PyTorch documentation](https://pytorch.org/docs/stable/tensors.html).
 
 Also, you're more than welcome to do the exercises mentioned at the end of the lesson. Just fill in the code in the [template notebook](./00_pytorch_fundamentals_exercises.ipynb) and check their solutions afterwards.
+
+Our blog post about this is [here on the DareData Blog](https://blog.daredata.engineering/pytorch-introduction-the-tensor-object/)

@@ -44,3 +44,4 @@ If you want to see an implementation of a linear regression model in PyTorch fro
 
 Also, check out [PyTorch's Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) for a quick reference on how to use PyTorch.
 
+Our blog post about this is [here on the DareData Blog](https://blog.daredata.engineering/pytorch-introduction-building-your-first-linear-model/)
