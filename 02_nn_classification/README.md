@@ -37,3 +37,5 @@ Also, check out [Tensorflow's Playground](https://playground.tensorflow.org/), w
 Now that you mostly know how to use PyTorch to build something functional, take a look at the [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html) to get a better understanding of the concepts you've learned so far. You can also use it as a reference for the rest of the course.
 
 At last, earlier we mentioned a 3Blue1Brown video about neural networks. In fact, has a whole series of videos about neural networks and Deep Learning, which are a great resource to learn more if you care about the mathematics that make neural networks work. He's a great educator and the visual explanations will unlock a whole new perspective about NNs. You can check out the whole series [here](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi).
+
+Our blog post about the topic of Non-Linear activation functions can be found [here](https://blog.daredata.engineering/pytorch-introduction-enter-nonlinear-functions/)
