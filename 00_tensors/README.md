@@ -10,6 +10,8 @@ A Tensor is, essentially, a mathematical concept. It is a generalization of vect
 
 Tensors are very useful in the field of Machine Learning and all ML frameworks have their own version of Tensors. Check out the following video by StatQuest, one of the greatest ML-related Youtube channels, to get a grasp of what Tensors are.
 
+<img src="../images/L35fFDpwIM4hd.jpg" alt="" width="300" height="auto">
+
 [Link to video](https://www.youtube.com/watch?v=L35fFDpwIM4)
 
 After this video, you should have a good understanding of what Tensors are and how they are used in Machine Learning. Now, let's see how PyTorch implements them.
