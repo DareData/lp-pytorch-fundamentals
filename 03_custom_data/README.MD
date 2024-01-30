@@ -32,6 +32,13 @@ In the article above, you've seen how to create a Dataset class and how to use i
 
 The first answer to [this Stack Overflow question](https://stackoverflow.com/questions/50544730/how-do-i-split-a-custom-dataset-into-training-and-test-datasets) is also very clear and it shows how you'd split the dataset with percentages rather than absolute numbers. For more information, check the [documentation page](https://pytorch.org/docs/stable/data.html#torch.utils.data.random_split) for the function.
 
+
+## Computer Vision
+
+Using images in PyTorch is quite simple. You can leverage several built-in function that are available in `torchvision` to make this process easier. In the notebooks, you'll also learn how to create na image `transforms.Compose`, something veeery handy for creating some clever transformations to images.
+
+If you'd like to check [custom datasets module](https://www.learnpytorch.io/04_pytorch_custom_datasets/) in the Pytorch, feel free. It contains a lot of useful information, particularly for Vision datasets.
+
 ## Assignment 2
 
 If you feel like you didn't put much into practice in this lesson, don't worry, you'll do it in the assignment. In it, you'll have to build a neural network to classify if a patient has had a heart attack or not based on their medical data, while also creating a Dataset prior to that. So, go ahead and check it out!
