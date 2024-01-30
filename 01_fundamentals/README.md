@@ -6,13 +6,19 @@ Before you start building neural networks, you need to understand how PyTorch wo
 
 If you don't have a mathematics background and never heard of linear regression, or even if you just need a refresher, this section is for you. Linear Regression is nothing more than just fitting a line that best describes a set of data points. This can be solved analytically, for a few points, but Machine Learning allows us to slove problems with a lot more data. Check ou this short video and you'll be up to speed with regression in just 2 minutes.
 
+<img src="../images/CtsRRUddV2shd.jpg" alt="" width="300" height="auto">
+
 [Link to video](https://www.youtube.com/watch?v=CtsRRUddV2s)
 
 If you're curious and want to know how exactly we fit a line to a set of points and how we evaluate what is a good fit and what's not, check out this video by StatQuest that briefly delves into that. 
 
+<img src="../images/PaFPbb66DxQhd.jpg" alt="" width="300" height="auto">
+
 [Link to video](https://www.youtube.com/watch?v=PaFPbb66DxQ)
 
 However, if you wish to really get into the mathematics behind linear regression, this longer video by StatQuest is a great resource and will take you through the mathematical journey of linear regression.
+
+<img src="../images/nk2CQITm_eohd.jpg" alt="" width="300" height="auto">
 
 [Link to video](https://www.youtube.com/watch?v=nk2CQITm_eo)
 
