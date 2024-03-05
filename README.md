@@ -32,4 +32,4 @@ We want to focus on *learning-by-doing*, so you're encouraged to do the exercise
 
 To start this course, make sure you follow the instructions in the [Setup Notebook](setup.ipynb) to get your environment ready. We recommend having a Virtual Environment for this course, so you can keep your dependencies separate from your other projects, but it's up to you really.
 
-After you're done with the setup, you can start with the first lesson, [Lesson 1: PyTorch Tensors](lesson_1.ipynb](https://github.com/DareData/lp-pytorch-fundamentals/blob/main/00_tensors/tensors_101.ipynb)https://github.com/DareData/lp-pytorch-fundamentals/blob/main/00_tensors/tensors_101.ipynb). Have fun! 🚀
+After you're done with the setup, you can start with the first lesson, [Lesson 1: PyTorch Tensors](https://github.com/DareData/lp-pytorch-fundamentals/blob/main/00_tensors/tensors_101.ipynb). Have fun! 🚀
