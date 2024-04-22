@@ -61,4 +61,4 @@ If you wish to to explore the part about loading images from a folder, which you
 
 Also, take note that convolutional neural networks may get stuck in the training process (because of exploding or vanishing gradients) quite easily. Make sure you try different learning rates if you find that your model is suffering from training staleness.
 
-Don't forget to check [01.Computer Vision.ipynb](04_computer_vision\01. Computer Vision.ipynb) notebook, where you'll be able to see a CV algorithm trained on the famous MNIST dataset.
+Don't forget to check [notebook in this folder](./01.Computer Vision.ipynb), where you'll be able to see a CV algorithm trained on the famous MNIST dataset.
