@@ -47,7 +47,7 @@ Although parameters for CNNs are normally a hyperparameter, there are many typic
 
 **VGG19:** [This architecture](https://www.researchgate.net/figure/llustration-of-the-network-architecture-of-VGG-19-model-conv-means-convolution-FC-means_fig2_325137356) is extremely famous and achieved interesting results. Let's see the architecture: 
 
-![CNNArchitecture](https://www.researchgate.net/publication/325137356/figure/fig2/AS:670371271413777@1536840374533/llustration-of-the-network-architecture-of-VGG-19-model-conv-means-convolution-FC-means.jpg)
+![CNNArchitecture](https://pub.mdpi-res.com/agriengineering/agriengineering-04-00056/article_deploy/html/images/agriengineering-04-00056-g002.png?1667281558)
 
 **AlexNet** [This architecture](https://en.wikipedia.org/wiki/AlexNet) competed in ImageNet Large Scale Visual Recognition and achieved impressive performance in 2012. It's one of the largest examples of Convolutional Architects:
 
