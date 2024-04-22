@@ -51,7 +51,7 @@ Although parameters for CNNs are normally a hyperparameter, there are many typic
 
 **AlexNet** [This architecture](https://en.wikipedia.org/wiki/AlexNet) competed in ImageNet Large Scale Visual Recognition and achieved impressive performance in 2012. It's one of the largest examples of Convolutional Architects:
 
-![CNNArchitecture](https://www.researchgate.net/publication/339756908/figure/fig5/AS:866265283457032@1583545146587/AlexNet-architecture-used-as-the-baseline-model-for-the-analysis-of-results-on-the.png)
+![CNNArchitecture](https://pub.mdpi-res.com/remotesensing/remotesensing-09-00848/article_deploy/html/images/remotesensing-09-00848-g001.png?1569499335)
 
 Can you find other examples of commonly used architectures of NNs?
 
